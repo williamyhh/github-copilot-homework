@@ -32,3 +32,6 @@
 /workspaces/github-copilot-homework/ExpenseAPI/obj/Debug/net8.0/ExpenseAPI.pdb
 /workspaces/github-copilot-homework/ExpenseAPI/obj/Debug/net8.0/ExpenseAPI.genruntimeconfig.cache
 /workspaces/github-copilot-homework/ExpenseAPI/obj/Debug/net8.0/ref/ExpenseAPI.dll
+/workspaces/github-copilot-homework/ExpenseAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/workspaces/github-copilot-homework/ExpenseAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/github-copilot-homework/ExpenseAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
